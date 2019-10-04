@@ -7,7 +7,8 @@ In our project we are going to use dataset having information of email. This ema
 
 # Goal:
 
-Goal of this project is to build Classification Decision Trees without using any Machine learning libraries (like Scikit Learn)
+Goal of this project is to build Classification Decision Trees without using any Machine learning libraries (like Scikit Learn).
+At the a figure will be generated having the results of misclassification rate vs tree size.
 
 Build Multiclass decision Trees with Numerical features. We are using ID3 algorithm
 
