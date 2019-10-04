@@ -16,6 +16,8 @@ IDE algorithm : https://en.wikipedia.org/wiki/ID3_algorithm.
 
 # Data Set:
 
+Dataset Url: ftp://ftp.ics.uci.edu/pub/machine-learning-databases/spambase/
+
 Spambase: is a binary classification task and the objective is to classify email messages as being spam or not. To this end the dataset uses fifty seven text based features to represent each email message. There are about 4600 instances. Here are what each feature means :
 
 The last column of 'spambase.data' denotes whether the e-mail was considered spam (1) or not (0), i.e. unsolicited commercial e-mail. Most of the attributes indicate whether a particular word or character was frequently occuring in the e-mail. The run-length attributes (55-57) measure the length of sequences of consecutive capital letters. For the statistical measures of each attribute, see the end of this file. Here are the definitions of the attributes:
