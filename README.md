@@ -1,8 +1,8 @@
 # CS599-Project1
 CS599 ( Machine Learning Research) Project 1
 # Re-do analysis:
-To run the code , need to download the repository and run the make file. In make  file contains all the required commands.
-You must have python 3.4 or above version to run the code.
+To run the code , need to download the repository and run the make file from the command line.Make  file contains all the required commands.
+Note: You must have python 3.4 or above version to run the code.
 
 # Description of the project:
 
