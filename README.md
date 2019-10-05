@@ -1,7 +1,10 @@
 # CS599-Project1
 CS599 ( Machine Learning Research) Project 1
+# Re-do analysis:
+To run the code , need to download the repository and run the make file. In make  file contains all the required commands.
+You must have python 3.4 or above version to run the code.
 
-# Description:
+# Description of the project:
 
 In our project we are going to use dataset having information of email. This email is collected from office and personal email. Here as an input different feature of email will be used as input like percent of common words, length of capital latter etc. This is mainly a spam-based data set where output will be the class of spam or not. But the ultimate output of this project is a figure where cross-validation estimate of misclassification rate of tree size and cross validation. 
 
